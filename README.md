@@ -66,7 +66,7 @@ The dataset includes the following attributes:
 
 ## 👥 Authors
 
-- Maxy Krotynski  
+- Maksi krutinsky
 - Roy Boker
 
 ## 📌 Conclusion
